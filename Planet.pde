@@ -5,7 +5,6 @@ class Planet {
   float angle;
   float distance;
   float orbitSpeed;
-  //Planet[] planets;
   PVector v;
 
   PShape globe;
@@ -33,16 +32,9 @@ class Planet {
   //it also shows the planets in orbit.
   void orbit() {
     angle = angle + orbitSpeed;
-
-    }
+   }
   
 
-  //made a function named spawnMoons.
-  //spawnMoons updates the array list planets.
-  //declares 3 new floats: r, d, and o.
-  //another if statement and an int named num.
-  //this should spawn moons if level is less than 2.
-  
   //made a function called show.
   //show declares pushMatrix and noStroke.
   //it also fills in the spheres
@@ -66,14 +58,6 @@ class Planet {
     shape(globe);
     //sphere(radius);
     //ellipse(0, 0, radius*2, radius*2);
-    /*
-    if (planets != null) {
-      //println(planets.length);
-      printArray(planets);
-      for (int i = 0; i < planets.length; i++) {
-        planets[i].show();
-      }
-    }*/
     popMatrix();
   }
   
