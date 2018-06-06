@@ -11,7 +11,7 @@ En este taller se creo una simulación del sistema solar, en este se tiene una f
 
 Para agregar los efectos de luz se tuvo en cuenta los tipos de iluminación descritos  en la siguiente imagen:
  <p align="center">
-     ![alt-text](data/light.PNG) 
+     ![alt-text](data/light.JPG) 
      </p>
      
 Para poder apreciar los efectos agregados, es necesario oprimir las teclas numéricas de la siguiente forma:
