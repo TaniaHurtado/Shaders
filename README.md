@@ -10,9 +10,9 @@ Estudiar la clase Shaders y su aplicación en la creación de objetos aplicando 
 En este taller se creo una simulación del sistema solar, en este se tiene una fuente de luz ubicada en la posición del sol y los planetas giran al rededor de este, tomando los efectos de luz de acuerdo a su posición. 
 
 Para agregar los efectos de luz se tuvo en cuenta los tipos de iluminación descritos  en la siguiente imagen:
- <p align="center">
-     ![alt-text](data/light.JPG) 
-     </p>
+* Lighting components 
+
+ ![Alt Text](data/light.JPG)
      
 Para poder apreciar los efectos agregados, es necesario oprimir las teclas numéricas de la siguiente forma:
 1: Mostrará solo textura.
