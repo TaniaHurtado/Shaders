@@ -24,12 +24,4 @@ https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_008_Solar
 ## Resultados
 
 Como resultado se tiene imágenes del sistema solar con iluminación difusa:
-<p align="center">
-     ![alt-text](data/diflight.JPG)
-     </p>
-     
-   y con especular:
-   
-   <p align="center">
-     ![alt-text](data/specLight.JPG)
-     </p>
+![Alt Text](data/animado.gif)
